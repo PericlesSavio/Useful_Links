@@ -62,7 +62,7 @@ A personal collection of useful links and resources I often reference.
 * [CD Romance](https://cdromance.org)
 * [Myrient](https://myrient.erista.me)
 * [CrocDB](https://crocdb.net)
-* [https://lostb1t.github.io/romsearch/]https://lostb1t.github.io/romsearch/
+* [https://lostb1t.github.io/romsearch/](https://lostb1t.github.io/romsearch/)
 
 
 ### News
