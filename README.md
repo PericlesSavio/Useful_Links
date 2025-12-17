@@ -49,3 +49,23 @@ A personal collection of useful links and resources I often reference.
 ## Raspberry Pi
 * [Raspberry Pi Connect](https://www.raspberrypi.com/software/connect/)
 * [Raspberry Pi Foundation](https://www.raspberrypi.com/)
+
+
+## Games
+### Romhacking
+* [ROMhacking.net](https://www.romhacking.net)
+* [Fórum Unificado de Tradução](https://www.romhacking.net.br)
+* [ROMhack Plaza](https://romhackplaza.org)
+
+
+### Roms
+* [CD Romance](https://cdromance.org)
+* [Myrient](https://myrient.erista.me)
+* [CrocDB](https://crocdb.net)
+* [https://lostb1t.github.io/romsearch/]https://lostb1t.github.io/romsearch/
+
+
+### News
+* [Time Extension](https://www.timeextension.com/tags/fan-translations)
+* [Hardcore Retro Gaming](https://hardcoreretrogaming.boards.net/thread/35/official-thread-new-english-translations)
+
